@@ -2,8 +2,8 @@
 2022-2 Algorithm Assignments
 
 
-### 1. Model 1
-(<img width="1026" alt="Screen Shot 2022-06-14 at 8 12 21 PM" src="https://user-images.githubusercontent.com/107472976/173566305-2d6cc5cb-2319-4bfe-8b79-58b4ee8730fa.png">)
+#### 1. Model 1
+<img width="1026" alt="Screen Shot 2022-06-14 at 8 12 21 PM" src="https://user-images.githubusercontent.com/107472976/173566305-2d6cc5cb-2319-4bfe-8b79-58b4ee8730fa.png">
 #### 2. Training with Training loss 
 <img width="1026" alt="Screen Shot 2022-06-14 at 8 13 36 PM" src="https://user-images.githubusercontent.com/107472976/173568010-3e3de301-9d9d-40d8-bad6-dbc19f448271.png">
 #### 3. Test Accuracy
